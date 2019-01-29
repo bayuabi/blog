@@ -19,13 +19,13 @@ Untuk menulis baris kode, saya menggunakan Arduino IDE yang sudah diinstall boar
 kamu bisa melihat tutorial [ini](https://github.com/esp8266/Arduino) jika belum menginstall board ESP8266 pada Arduino IDE.
 
 ## Perintah login pada wifi UB
-![Login wifi UB](/image/login_nas-300x269.jpg)
+![Login wifi UB](/image/2019/esp8266-login-nas/login_nas-300x269.jpg)
 
 Seperti terlihat pada gambar di atas, halaman login wifi UB membutuhkan username dan password untuk bisa menggunakan akses wifi.
 Halaman login wifi UB menggunakan protokol HTTP dengan metode POST untuk komunikasi antara client dan server.
 Dengan menggunakan metode POST maka username dan password tidak mudah diketahui oleh orang lain karena tidak akan ditampilkan pada halaman browser.
 
-![POST pada halaman login wifi UB](/image/post-wifi-ub.jpg)
+![POST pada halaman login wifi UB](/image/2019/esp8266-login-nas/post-wifi-ub.jpg)
 
 Pada halaman login digunakan variabel "opr", "userName", "pwd", dan "rememberPwd" yang dikirimkan ke alamat "http://nas.ub.ac.id/ac_portal/login.php"
 
@@ -87,7 +87,7 @@ if(httpCode > 0){
 
 Apabila berhasil, pada serial monitor akan tampil tulisan yang sama seperti saat kita login menggunakan browser.
 
-![Sukses Login](/image/sukses-login.jpeg)
+![Sukses Login](/image/2019/esp8266-login-nas/sukses-login.jpeg)
 
 Berikut ini adalah kode lengkapnya. Kamu juga bisa melihat di repository [github](https://github.com/bayuabi/esp8266-auto-nas/blob/master/ESP8266_AutoNAS.ino) saya.
 

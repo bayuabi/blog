@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 16:37:15 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:43:08 +0800</lastBuildDate>
     
 	<atom:link href="https://www.bayuabi.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started With DE0 Nano SoC FPGA</title>
+      <link>https://www.bayuabi.com/blog/getting-started-with-de0-nano-soc-fpga/</link>
+      <pubDate>Tue, 29 Jan 2019 00:43:08 +0800</pubDate>
+      
+      <guid>https://www.bayuabi.com/blog/getting-started-with-de0-nano-soc-fpga/</guid>
+      <description>Pada tulisan kali ini saya akan berbagi mengenai pemrogaman FPGA menggunakan bahasa pemrogaman VHDL. Untuk yang belum mengerti mengenai apa itu FPGA dan VHDL bisa dilihat dulu sekilas tentang keduanya di link berikut : - FPGA - VHDL
+Board FPGA yang akan saya gunakan adalah DE0 Nano SoC. Pada board tersebut terdapat Sytem on Chip (SoC) yang terdiri dari FPGA dan Hard Processing System (HPS) ARM 9 yang menggunakna chip Cyclone V.</description>
+    </item>
     
     <item>
       <title>ESP8266 Bypass Wifi Login Page</title>

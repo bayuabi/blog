@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.bayuabi.com/blog/getting-started-with-de0-nano-soc-fpga/</loc>
+    <lastmod>2019-01-29T00:43:08+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.bayuabi.com/blog/esp8266-bypass-wifi-login-page/</loc>
     <lastmod>2019-01-26T16:37:15+07:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://www.bayuabi.com/</loc>
-    <lastmod>2019-01-26T16:37:15+07:00</lastmod>
+    <lastmod>2019-01-29T00:43:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.bayuabi.com/blog/</loc>
-    <lastmod>2019-01-26T16:37:15+07:00</lastmod>
+    <lastmod>2019-01-29T00:43:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
