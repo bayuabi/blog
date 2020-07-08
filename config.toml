@@ -1,4 +1,4 @@
-baseURL = "https://www.bayuabi.com"
+baseURL = "http://www.bayuabi.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Bayu Abi P."
@@ -22,7 +22,6 @@ googleAnalytics = "UA-133304442-1"
 
 [taxonomies]
   tag = "tags"
-  category = ""  # Categories are disabled by default.
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -36,7 +35,7 @@ googleAnalytics = "UA-133304442-1"
   themeColor = "#494f5c"
   # comments = true
 
-  homeSubtitle = "electronics, iot, and fpga geek."
+  homeSubtitle = "fullstack on everything."
   # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
